@@ -1,0 +1,25 @@
+import java.util.*;
+public class test_module4 {
+	public static void main(String[] args) {
+		Scanner in = new Scanner(System.in);
+		TreeSet<Integer> tree = new TreeSet<>(new Comparator<Integer>() {
+		@Override
+		public int compare(Integer o1, Integer o2) {
+		       return o2-o1;
+		            }
+		        });
+		        //YOUR CODE will be placed HERE
+				int n;
+				for (int i=0;i<5;i++)
+				{
+					n=in.nextInt();
+					tree.add(n);
+				}
+				System.out.println(tree.first());
+				
+		    }
+		
+
+	}
+
+

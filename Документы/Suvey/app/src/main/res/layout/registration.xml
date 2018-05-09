@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="31dp"
+        android:text="регистрация"
+        android:textColor="@android:color/black"/>
+
+    <EditText
+        android:id="@+id/editTextLog"
+        style="@android:style/Widget.DeviceDefault.Button.Inset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:textColor="@android:color/black"
+        android:hint="логин"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editTextPas"
+        style="@android:style/Widget.DeviceDefault.Button.Inset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editTextLog"
+        android:layout_below="@+id/editTextLog"
+        android:ems="10"
+        android:textColor="@android:color/black"
+        android:hint="пароль"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/editTextPasPas"
+        style="@android:style/Widget.DeviceDefault.Button.Inset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editTextPas"
+        android:layout_below="@+id/editTextPas"
+        android:ems="10"
+        android:textColor="@android:color/black"
+        android:hint="повторите пароль"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/editText6"
+        style="@android:style/Widget.DeviceDefault.Button.Inset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editTextPasPas"
+        android:layout_below="@+id/editTextPasPas"
+        android:ems="10"
+        android:textColor="@android:color/black"
+        android:hint="имя"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editText7"
+        style="@android:style/Widget.DeviceDefault.Button.Inset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editText6"
+        android:layout_below="@+id/editText6"
+        android:textColor="@android:color/black"
+        android:ems="10"
+        android:hint="фамилия"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editText8"
+        style="@android:style/Widget.DeviceDefault.Button.Inset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/editText7"
+        android:layout_below="@+id/editText7"
+        android:ems="10"
+        android:hint="почта"
+        android:textColor="@android:color/black"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/button5"
+        style="@android:style/Widget.DeviceDefault.Button.Inset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText8"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="43dp"
+        android:onClick="registrationSuccesful"
+        android:text="Зарегестрироваться"
+        android:textColor="@android:color/black" />
+
+</RelativeLayout>

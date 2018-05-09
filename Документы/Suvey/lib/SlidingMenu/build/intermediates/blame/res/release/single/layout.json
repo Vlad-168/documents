@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e451acce6ee4bb0bbe20586bdd7402c1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e451acce6ee4bb0bbe20586bdd7402c1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e451acce6ee4bb0bbe20586bdd7402c1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e451acce6ee4bb0bbe20586bdd7402c1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e451acce6ee4bb0bbe20586bdd7402c1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e451acce6ee4bb0bbe20586bdd7402c1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\7b7461292a8b34d5245303bc1423b1b5\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\slidingmenumain.xml",
+        "source": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e451acce6ee4bb0bbe20586bdd7402c1\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e451acce6ee4bb0bbe20586bdd7402c1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\7b7461292a8b34d5245303bc1423b1b5\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e451acce6ee4bb0bbe20586bdd7402c1\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\7b7461292a8b34d5245303bc1423b1b5\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\7b7461292a8b34d5245303bc1423b1b5\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\7b7461292a8b34d5245303bc1423b1b5\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\7b7461292a8b34d5245303bc1423b1b5\\res\\layout\\notification_action.xml"
+    }
+]

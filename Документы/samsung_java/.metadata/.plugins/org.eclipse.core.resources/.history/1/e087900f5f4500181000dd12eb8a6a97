@@ -1,0 +1,10 @@
+import java.util.Arrays;
+    public  class Test {
+    public static void main(String[] args) {
+
+// write your code here    
+
+Arrays.sort(a);
+        System.out.println(Arrays.binarySearch(a, "spring"));
+    }
+}

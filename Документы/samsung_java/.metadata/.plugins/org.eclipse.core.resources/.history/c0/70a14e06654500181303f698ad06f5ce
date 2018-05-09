@@ -1,0 +1,48 @@
+import java.util.Collections;
+import java.util.Scanner;
+import java.util.ArrayList;
+
+class Student implements Comparable<Student> {
+    int id;
+    String name;
+    int class_numb;
+ 
+    public int compareTo(Student o) {
+        return class_numb - o.class_numb;
+    }
+ 
+    Student(int id, String name, int class_numb)
+    {
+        this.id = id;
+        this.name = name;
+        this.class_numb = class_numb > 0 ? class_numb : 0;
+    }
+ 
+    void print()
+    {
+        System.out.println(id + " " + "name" + " " + class_numb);
+    }
+}
+ 
+public class stack {
+    public  static  void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        ArrayList<Student> students = new ArrayList<Student>();
+        int student_count = in.nextInt();
+        int id;
+        String name;
+        int class_numb;
+        for (int i = 0; i < student_count; i++) {
+            id = in.nextInt();
+            name = in.next();
+            class_numb = in.nextInt();
+            Student student = new Student(id, name, class_numb);
+            students.add(student);
+        }
+        Collections.sort(students);
+        for (int i = 0; i < students.size(); i++) {
+            students.get(i).print();
+        }
+ 
+    }
+}

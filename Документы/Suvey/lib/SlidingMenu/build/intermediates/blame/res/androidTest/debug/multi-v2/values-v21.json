@@ -1,0 +1,348 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\7b7461292a8b34d5245303bc1423b1b5\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                },
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e451acce6ee4bb0bbe20586bdd7402c1\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/lib/SlidingMenu/build/intermediates/res/merged/androidTest/debug/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/fa9ec39dc484216443e99bc5b188ddeb/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                },
+                {
+                    "source": "/home/vladislav/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/d7c845ba2050888ded3dc6c47a4e6a9b/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\Downloads\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\4a5f7dbefde715d9a7003b5c8ca1acc1\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                },
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\2f03c3b62a902706b37c022119e44435\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\7b7461292a8b34d5245303bc1423b1b5\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                },
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\e451acce6ee4bb0bbe20586bdd7402c1\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\Downloads\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\4a5f7dbefde715d9a7003b5c8ca1acc1\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                },
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\2f03c3b62a902706b37c022119e44435\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/lib/SlidingMenu/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/fa9ec39dc484216443e99bc5b188ddeb/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                },
+                {
+                    "source": "/home/vladislav/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/d7c845ba2050888ded3dc6c47a4e6a9b/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/C:\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\4a5f7dbefde715d9a7003b5c8ca1acc1\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                },
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\2f03c3b62a902706b37c022119e44435\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/C:\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\4a5f7dbefde715d9a7003b5c8ca1acc1\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                },
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.0.1.aar\\2f03c3b62a902706b37c022119e44435\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                }
+            ]
+        }
+    ]
+}

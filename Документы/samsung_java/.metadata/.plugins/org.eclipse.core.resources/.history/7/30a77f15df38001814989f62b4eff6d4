@@ -1,0 +1,31 @@
+import java.util.HashSet;
+import java.util.Scanner;
+
+class Student{
+    int mark;
+    String name;
+    public Student(int mark, String name){
+        this.mark = mark;
+        this.name = name;
+    }
+    @Override
+    public String toString() {
+        return "Student: name=" + name + ", mark=" + mark + "]";
+    }
+}
+
+public class good {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner in = new Scanner(System.in);
+		HashSet<Student> hashSet = new HashSet<>();
+		int num = in.nextInt();
+		for (int i=0;i<num;i++)
+		{
+			String name = in.next();
+			int mark = in.nextInt();
+			hashSet.add(new Student(mark,name));
+		}
+		
+	}
+}

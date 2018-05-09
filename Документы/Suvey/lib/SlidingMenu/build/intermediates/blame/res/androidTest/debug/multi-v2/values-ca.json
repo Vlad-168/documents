@@ -1,0 +1,124 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/lib/SlidingMenu/build/intermediates/res/merged/androidTest/debug/values-ca/values-ca.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/fa9ec39dc484216443e99bc5b188ddeb/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/lib/SlidingMenu/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ca/values-ca.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/fa9ec39dc484216443e99bc5b188ddeb/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\Downloads\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ca\\values-ca.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\4a5f7dbefde715d9a7003b5c8ca1acc1\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/C:\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ca\\values-ca.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\4a5f7dbefde715d9a7003b5c8ca1acc1\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/C:\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ca\\values-ca.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\4a5f7dbefde715d9a7003b5c8ca1acc1\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-ca\\values-ca.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\7b7461292a8b34d5245303bc1423b1b5\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\Downloads\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ca\\values-ca.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Michicosun\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\4a5f7dbefde715d9a7003b5c8ca1acc1\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vladislav/Документы/Suvey/C:\\Users\\Sergey\\Desktop\\Suvey\\lib\\SlidingMenu\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ca\\values-ca.xml",
+            "map": [
+                {
+                    "source": "/home/vladislav/Документы/Suvey/C:\\Users\\Sergey\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\7b7461292a8b34d5245303bc1423b1b5\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

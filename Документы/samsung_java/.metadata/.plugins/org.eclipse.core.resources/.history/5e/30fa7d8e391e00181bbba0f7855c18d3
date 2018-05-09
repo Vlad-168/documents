@@ -1,0 +1,45 @@
+import java.util.Scanner;
+import java.util.TreeSet;
+
+
+public class ruburf {
+
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		java.util.TreeMap <String, String> dictionary = new java.util.TreeMap<>();
+		Scanner in = new Scanner(System.in);
+		//int n = in.nextInt();
+		//for (int i=1;i<=n;i++){
+			//String value_1, value_2;
+			
+			//value_1 = in.next();
+			//value_2 = in.next();
+			//dictionary.put(value_1, value_2);
+			//dictionary.put(value_2, value_1);
+			
+		//}
+		//System.out.println(dictionary.get(in.next()));
+		
+		TreeSet<String> user1 = new TreeSet<>();
+		user1.add("Vlad");
+		user1.add("Vlad228");
+		user1.add("Vlad337");
+		
+		TreeSet<String> user2 = new TreeSet<>();
+		user2.add("la");
+		user2.add("la228");
+		user2.add("la337");
+		
+		TreeSet<String> users = new TreeSet<>();
+		users.addAll(user1);
+		users.addAll(user2);
+		System.out.println(users);
+		
+		TreeSet<String> inter = new TreeSet<>();
+		inter.addAll(user1);
+		inter.retainAll(user2);
+		System.out.println(inter);
+	}
+
+}
